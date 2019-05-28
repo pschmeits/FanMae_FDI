@@ -7,7 +7,7 @@ A template with the desired layout is located within the repository and should b
 
 The colors of the columns correspond with the type of data to be placed within them.
 
-|    ###Color###   |                 ###Data###                 |
+|    Color   |                 Data                 |
 |:----------:|:------------------------------------:|
 |    Green   |         Capital Contributions        |
 |    Grey    |          Cash Distributions          |
