@@ -7,10 +7,13 @@ A template with the desired layout is located within the repository and should b
 
 The colors of the columns correspond with the type of data to be placed within them.
 
+| **Color**       | Data                                   |
+|-----------------|----------------------------------------|
 | **Green:**      | Capital Contributions                  |
 | **Grey:**       | Cash Distributions                     |
 | **Blue:**       | LIHTC - *Left: AMT* & *Right: Non-AMT* |
 | **Light Blue:** | Historic Tax Credits                   |
+| **Red:**        | Losses                                 |
 
 **Green:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Capital Contributions  
 **Grey:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cash Distributions  
