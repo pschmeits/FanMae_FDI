@@ -15,4 +15,9 @@ The colors of the columns correspond with the type of data to be placed within t
 | Light Blue |         Historic Tax Credits         |
 |     Red    |                Losses                |
 
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
+
 **Note:** *One property that does not exist on the Template but is very important for the importer's success is the "Projected Year". While it isn't a column in the Template it is required that the data line up with the years displayed on the website. Therefore, if the years on the website start one year prior to the information leave a row of zeroes above the data on the template so that the importer knows to import zeroes for that year.*
