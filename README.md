@@ -21,7 +21,7 @@ The colors of the columns correspond with the type of data to be placed within t
 ## Exporting
 - Once you have your Fund Data formatted into the correct columns in the Excel Template you must **export it as a CSV**.   
     - This can be done by selecting **File > Export > Change File Type > CSV (Comma delimited) > Save As**.  
-- Then, enter the name you want, and save it into a directory you can return to.
+- Then, enter the name you want, and **save it into a directory you can navigate back to**.
 
 # Importer
 - To use the FDI you must first **activate the script** in Tamermonkey. 
