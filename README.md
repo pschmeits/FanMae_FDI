@@ -4,7 +4,7 @@ Tampermonkey script for importing CSV to Fannie Mae Syndicator Dashboard. (FDI -
 The script takes is a specifically formatted CSV and populates the imported data into the corresponding text boxes in the array of text inputs on the Fannie Mae Submissions.
 
 # Template
-A template with the desired layout is located within the repository and should be titled "Template.xlsx".
+A <a href="https://drive.google.com/open?id=1WAnxugE5i2hhiVNcH0BjWQkCO9gPyUr4">template</a> with the desired layout is located within the repository and should be titled "Template.xlsx".
 
 The colors of the columns correspond with the type of data to be placed within them.
 
