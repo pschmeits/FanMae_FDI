@@ -28,5 +28,17 @@ The colors of the columns correspond with the type of data to be placed within t
     - To do this you **must have the Tampermonkey extension** for Chrome which can be downloaded <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">here</a>. 
     - Once you've added Tampermonkey to your browser its icon should appear in the **top-right corner** of your browser.
     - Click on the icon and select **"Create a new script..."** which should open a new tab.
-    - Now you can just **copy the contents of "FanMae_FDI.user.js"** and **paste it over the pre-existing text** in the new tab and *File > Save*.
-- Now that the script is saved you can go to the **Fannie Mae Syndicator Dashboard** where you should see a button just below your bookmarks that says **"Choose File"**.
+    - Now **copy the contents of "FanMae_FDI.user.js"** and **paste it over the pre-existing text** in the new tab and *File > Save*.
+- Once the script is saved go to the **Fannie Mae Syndicator Dashboard** and you should see a button just below your bookmarks bar that says **"Choose File"**.
+    - If this button is not visible click the Tampermonkey icon and verify that the **FanMae_FDI script** is switched **ON**.
+    - If it is still not visible and the script is on then **try refreshing the page**.
+- **Before clicking the button**, make sure to navigate to the fund you are trying to populate with the data.
+    - The button should persist as long as you remain within the Fannie Mae Syndicator Dashboard.
+- Once you are on the screen with the array of text inputs, click the "Choose File" button.
+    - Upon clicking the "Choose File" button a file selector should open.
+- Navigate to the CSV you exported from the template and select and "Open" it.
+- Upon opening it the text inputs should be populated with the data from the CSV file.
+    - **DO NOT SUMBIT**
+- Click the save button and the site should refresh and calculate the values within the inputs.
+    - Once calculations are complete verify that the "Total Benefits" match those of the source Benefit Schedule.
+- Finally, after verifying the data click submit to lock in the data and submit it to Fannie Mae.
