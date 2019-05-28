@@ -26,4 +26,7 @@ The colors of the columns correspond with the type of data to be placed within t
 # Importer
 - To use the FDI you must first activate the script in Tamermonkey. 
     - To do this you will have to have the Tampermonkey extension for Chrome which can be downloaded <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">here</a>. 
--  
+    - Once you've added Tampermonkey to your browser its icon should appear in the top-right corner.
+    - Click on the icon and select "Create a new script..." which should open a new tab.
+    - Now you can just copy the contents of "FanMae_FDI.user.js" an paste it over the pre-existing text in the new tab and File > Save.
+- Now that the script is saved you can go to the Fannie Mae Syndicator Dashboard where you should see a button just below your bookmarks that says "Choose File".
