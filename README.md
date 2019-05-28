@@ -24,7 +24,7 @@ The colors of the columns correspond with the type of data to be placed within t
 &nbsp;&nbsp;&nbsp;&nbsp;Lastly, enter the name you want, and save it into a directory you can return to.
 
 # Importer
-- To use the **FDI** you must first **activate** the script in **Tamermonkey**. 
+- To use the FDI you must first **activate the script** in Tamermonkey. 
     - To do this you **must have the Tampermonkey extension** for Chrome which can be downloaded <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">here</a>. 
     - Once you've added Tampermonkey to your browser its icon should appear in the **top-right corner** of your browser.
     - Click on the icon and select **"Create a new script..."** which should open a new tab.
