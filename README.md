@@ -9,7 +9,7 @@ The colors of the columns correspond with the type of data to be placed within t
 
 | <big><big>Color</big></big> |      <big><big>Data</big></big>      |
 |:---------------------------:|:------------------------------------:|
-|          <big>Green</big>          |         Capital Contributions        |
+|          <big><big>Green</big></big>          |         Capital Contributions        |
 |           **Grey**          |          Cash Distributions          |
 |           **Blue**          | LIHTC - *Left: AMT & Right: Non-AMT* |
 |        **Light Blue**       |         Historic Tax Credits         |
