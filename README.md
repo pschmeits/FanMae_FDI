@@ -37,14 +37,14 @@ The colors of the columns correspond with the type of data to be placed within t
 - **Before clicking the button**, make sure to navigate to the fund you are trying to populate with the data.
     - The button should persist as long as you remain within the Fannie Mae Syndicator Dashboard.  
     
-- Once you are on the screen with the array of text inputs, click the "Choose File" button.
-    - Upon clicking the "Choose File" button a file selector should open.  
+- Once you are on the screen with an **array of text inputs**, click the **"Choose File"** button.
+    - Upon clicking the "Choose File" button a **file selector should open**.  
     
-- Navigate to the CSV you exported from the template and select and "Open" it.
-- Upon opening it the text inputs should be populated with the data from the CSV file.
+- **Navigate to the CSV you exported** from the template and select and **"Open" it**.
+- **Upon opening** it **the text inputs should be populated with the data from the CSV file**.
     - **DO NOT SUMBIT**  
     
-- Click the save button and the site should refresh and calculate the values within the inputs.
-    - Once calculations are complete verify that the "Total Benefits" match those of the source Benefit Schedule.  
+- **Click the save button** and the site should refresh and calculate the values within the inputs.
+    - Once calculations are complete **verify that the "Total Benefits" match those of the source Benefit Schedule**.  
     
-- Finally, after verifying the data click submit to lock in the data and submit it to Fannie Mae.
+- Finally, **after verifying the data click submit** to lock in the data and submit it to Fannie Mae.
