@@ -9,8 +9,8 @@ The colors of the columns correspond with the type of data to be placed within t
 
 **Green:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Capital Contributions  
 **Grey:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cash Distributions  
-**Blue:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIHTC - *Left: AMT* & *Right: Non-AMT*  
+**Blue:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIHTC - *Left: AMT* & *Right: Non-AMT*  
 **Light Blue:**&nbsp;&nbsp;&nbsp;Historic Tax Credits  
-**Red:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Losses  
+**Red:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Losses  
 
 **Note:** *One property that does not exist on the Template but is very important for the importer's success is the "Projected Year". While it isn't a column in the Template it is required that the data line up with the years displayed on the website. Therefore, if the years on the website start one year prior to the information leave a row of zeroes above the data on the template so that the importer knows to import zeroes for that year.*
