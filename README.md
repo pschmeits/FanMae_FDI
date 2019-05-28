@@ -42,7 +42,7 @@ The colors of the columns correspond with the type of data to be placed within t
     
 - **Navigate to the CSV you exported** from the template and select and **"Open" it**.
 - **Upon opening** it **the text inputs should be populated with the data from the CSV file**.
-    - **DO NOT SUMBIT YET**  
+    - **DO NOT SUBMIT YET**  
     
 - **Click the save button** and the site should refresh and calculate the values within the inputs.
     - Once calculations are complete **verify that the "Total Benefits" match those of the source Benefit Schedule**.  
