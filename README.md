@@ -25,5 +25,5 @@ The colors of the columns correspond with the type of data to be placed within t
 
 # Importer
 - To use the FDI you must first activate the script in Tamermonkey. 
-- To do this you will have to have the Tampermonkey extension for Chrome which can be downloaded <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">here</a>. 
+    - To do this you will have to have the Tampermonkey extension for Chrome which can be downloaded <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">here</a>. 
 -  
