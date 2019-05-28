@@ -18,8 +18,8 @@ The colors of the columns correspond with the type of data to be placed within t
 
 **Note:** *One property that does not exist on the Template but is very important for the importer's success is the "Projected Year". While it isn't a column on the Template it is required that the data line up with the years displayed on the website. Therefore, if the years on the website start one year prior to the information leave a row of zeroes above the data on the template so that the importer knows to import zeroes for that year.*
 
-### Exporting
-Once you have your Fund Data formatted into the correct columns in the Excel Template you must export it as a CSV. This can be done by selecting *File > Export > Change File Type > CSV (Comma delimited) > Save As* then enter the name you want, and save it into a directory you can return to.
+## Exporting
+&nbsp;&nbsp;Once you have your Fund Data formatted into the correct columns in the Excel Template you must export it as a CSV. This can be &nbsp;&nbsp;done by selecting *File > Export > Change File Type > CSV (Comma delimited) > Save As* then enter the name you want, and save &nbsp;&nbsp;it into a directory you can return to.
 
 # Importer
 1. To use the FDI you must first activate the script in Tamermonkey. To do this you will have to have the Tampermonkey extension for Chrome which can be downloaded <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">here</a>. 
