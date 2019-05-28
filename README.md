@@ -20,7 +20,7 @@ The colors of the columns correspond with the type of data to be placed within t
 
 ## Exporting
 &nbsp;&nbsp;&nbsp;&nbsp;Once you have your Fund Data formatted into the correct columns in the Excel Template you must export it as a CSV. 
-&nbsp;&nbsp;&nbsp;&nbsp;This can be done by selecting *File > Export > Change File Type > CSV (Comma delimited) > Save As*.
+&nbsp;&nbsp;&nbsp;&nbsp;This can be done by selecting *File > Export > Change File Type > CSV (Comma delimited) > Save As*.  
 &nbsp;&nbsp;&nbsp;&nbsp;Lastly, enter the name you want, and save it into a directory you can return to.
 
 # Importer
