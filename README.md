@@ -44,7 +44,7 @@ The colors of the columns correspond with the type of data to be placed within t
 - **Upon opening** it **the text inputs should be populated with the data from the CSV file**.
     - **DO NOT SUBMIT YET**  
     
-- **Click the save button** and the site should refresh and calculate the values within the inputs.
+- **Click the save button** and the site should refresh and calculate the values from the inputs.
     - Once calculations are complete **verify that the "Total Benefits" match those of the source Benefit Schedule**.  
     
 - Finally, **after verifying the data click submit** to lock in the data and submit it to Fannie Mae.
