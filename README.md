@@ -28,7 +28,7 @@ The colors of the columns correspond with the type of data to be placed within t
     - To do this you **must have the Tampermonkey extension** for Chrome which can be downloaded <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en">here</a>. 
     - Once you've added Tampermonkey to your browser its icon should appear in the **top-right corner** of your browser.
     - Click on the icon and select **"Create a new script..."** which should open a new tab.
-    - Now **copy the contents of "<a href="https://drive.google.com/open?id=1VaWCDHQXA8h58zQ8OD-K-jT0WWJ11oeC">FanMae_FDI.user.js</a>"** and **paste it over the pre-existing text** in the new tab and *File > Save*.  
+    - Now **copy the contents of "<a href="https://drive.google.com/open?id=18QvF345FKGJAA9AswDJbEcIwD1GJ_yl1">FanMae_FDI.user.js</a>"** and **paste it over the pre-existing text** in the new tab and *File > Save*.  
     
 - Once the script is saved go to the **Fannie Mae Syndicator Dashboard** and you should see a button just below your bookmarks bar that says **"Choose File"**.
     - If this button is not visible click the Tampermonkey icon and verify that the **FanMae_FDI script** is switched **ON**.
